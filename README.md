@@ -1,4 +1,18 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ⚛️
+
+Meu nome é _Alisson_
+
+- Estou estudando na [Alura](https://www.alura.com.br/);
+- Estou me desenvolvendo na linguagem de JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+### Você pode entrar em contato 
+
+lissuhc@gmail.com 
+
+00001132425190sp@al.educacao.sp.gov.br 
+
+![]()
 
 <!--
 **Correiahc/Correiahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
